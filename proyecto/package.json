@@ -9,9 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
     "vite": "^7.1.2"
   },
   "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/core": "^7.4.3",
     "firebase": "^12.2.1"
   }
 }
